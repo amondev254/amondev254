@@ -53,7 +53,7 @@ console.log("Thanks for visiting my profile! 🚀");
 
 💬 Ask me about WhatsApp Bots, Node.js, Automation
 
-📫 How to reach me: your-email@example.com
+📫 How to reach me: amondev254@gmail.com
 
 ⚡ Fun fact: I love turning coffee into code ☕
 
@@ -94,7 +94,6 @@ Short description of your third project.
 🔗 View Repository
 
 <!-- Contribution Snake --><h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" /> Contribution Graph </h2><div align="center"> <img src="https://raw.githubusercontent.com/amondev254/amondev254/output/snake.svg" alt="Snake animation" /> </div>
-⚠️ Note: To enable the snake animation, you need to set up a GitHub Action. See this guide.
 
 <!-- Connect Section --><h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" /> Connect With Me </h2><div align="center"><a href="https://wa.me/254118476518" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> <a href="mailto:amondev254@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/amondev254" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://t.me/Demon_lord_dev" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a></div>
 <!-- Quote --><div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </div>
